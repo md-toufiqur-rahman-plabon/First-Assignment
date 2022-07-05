@@ -1,0 +1,126 @@
+body{
+  font-family: 'Playfair Display';
+  margin:0%;
+  padding: 0%;
+}
+
+
+.top-part{ background-image: url(images/donation9.jpg);
+  display: block;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+
+} 
+.top-part h1{
+  border-radius: 30px;
+  color: rgba(0, 0, 0, 0.822);
+  font-weight: bold;
+  text-align: center;
+  margin-bottom:20px;
+  margin-left: 200px;
+  margin-right: 200px;
+  background-image:linear-gradient(white,rgba(128, 128, 128, 0.596));
+}
+.top-part p{
+  border-radius: 30px;
+  color:black;
+  text-align: center;
+  background-image:linear-gradient(white,rgba(128, 128, 128, 0.596));
+  margin-left: 350px;
+  margin-right: 350px;
+  margin-bottom:20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.link-button{
+  border-radius: 30px;
+  color:black;
+  font-weight: bold;
+  text-decoration: none;
+  background-image:linear-gradient(white,tomato);
+  padding:10px 20px;
+  font-family: Arial, Helvetica, sans-serif;  
+  
+}
+#first-part{
+  padding-top:250px;
+  text-align: center;
+  padding-bottom: 200px;
+ }
+
+ .second-part{
+  text-align: center;
+  font-weight:bold;
+  padding-top: 20px;
+ }
+
+ .second-part p{
+  background-image:linear-gradient(white,rgba(128, 128, 128, 0.596));
+        
+        margin-left: 350px;
+        margin-right: 350px;
+ }
+ .second-part h1{
+  background-image:linear-gradient(white,rgba(128, 128, 128, 0.432));
+  display: inline;
+  margin-left: 350px;
+  margin-right: 350px;
+ }
+.fifth-width{
+  display: flex;
+  margin-left: 250px;
+
+  
+}
+.fifth{
+  width:15%;
+  box-shadow:10px 10px 40px gray;
+  padding-left: 5px;;
+
+
+}
+.different{
+  background-image:linear-gradient(white,tomato);
+}
+
+.third-part{
+  text-align: center;
+  font-weight:bold;
+  padding-top: 20px;
+
+}
+.third{
+  display: flex;
+  padding-left: 150px;
+  
+}
+.ways{
+  width:25%;
+  text-align: center;
+  padding-right: 20px;
+  padding-left: 20px;
+  
+}
+.one{
+  background-image:linear-gradient(white,tomato);
+  border-radius: 10px;
+}
+.two{
+  background-image:linear-gradient(white,blue);
+  border-radius: 10px;
+  margin-left: 5px;
+}
+
+.three{
+  background-image:linear-gradient(white,gray);
+  border-radius: 10px;
+  margin-left: 5px;
+}
+footer{
+  padding-bottom: 0%;
+  margin-bottom: 0%;
+  text-align: center;
+  color:orangered;
+  background-color: black;
+  font-family:sans-serif;
+}
