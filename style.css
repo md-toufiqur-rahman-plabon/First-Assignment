@@ -1,7 +1,6 @@
 body{
-  font-family: 'Playfair Display';
-  margin:0%;
-  padding: 0%;
+  font-family: 'Gentium Book Plus';
+  margin:0;
 }
 
 
@@ -116,11 +115,11 @@ body{
   border-radius: 10px;
   margin-left: 5px;
 }
-footer{
-  padding-bottom: 0%;
-  margin-bottom: 0%;
+.fifth-part{
   text-align: center;
   color:orangered;
   background-color: black;
-  font-family:sans-serif;
-}
+   }
+   .fifth-part p{
+    display: inline;
+   }
